@@ -1,0 +1,15 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, false, false, java.util.ArrayList/3821976829, 3821976829
+java.util.Arrays$ArrayList, true, true, false, false, java.util.Arrays$ArrayList/1243019747, 1243019747
+java.util.LinkedList, true, true, false, false, java.util.LinkedList/1060625595, 1060625595
+java.util.Stack, true, true, false, false, java.util.Stack/1031431137, 1031431137
+java.util.Vector, true, true, false, false, java.util.Vector/3125574444, 3125574444
+org.sewtha.planmaker.client.SimplePlanData, true, true, true, true, org.sewtha.planmaker.client.SimplePlanData/4071616706, 4071616706
+[Lorg.sewtha.planmaker.client.SimplePlanData;, true, true, false, false, [Lorg.sewtha.planmaker.client.SimplePlanData;/953714842, 953714842
+org.sewtha.planmaker.client.SimplerPlan, true, false, true, false, org.sewtha.planmaker.client.SimplerPlan/3063997200, 3063997200
+org.sewtha.planmaker.client.rpcclient.LoginService, false, false, false, false, _, 3090377481
+org.sewtha.planmaker.client.rpcclient.UserInfo, true, true, false, false, org.sewtha.planmaker.client.rpcclient.UserInfo/1892318495, 1892318495

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>Sewtha.html</welcome-file>
+	</welcome-file-list>
+	<!-- Servlets -->
+	<servlet>
+		<servlet-name>energyPlanService</servlet-name>
+		<servlet-class>org.sewtha.planmaker.server.EnergyPlanServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>energyPlanService</servlet-name>
+		<url-pattern>/sewtha/energyPlanService</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>loginService</servlet-name>
+		<servlet-class>org.sewtha.planmaker.server.LoginServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>loginService</servlet-name>
+		<url-pattern>/sewtha/login</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>countryService</servlet-name>
+		<servlet-class>org.sewtha.planmaker.server.CountryServiceImpl</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>countryService</servlet-name>
+		<url-pattern>/sewtha/countryService</url-pattern>
+	</servlet-mapping>
+
+
+</web-app>

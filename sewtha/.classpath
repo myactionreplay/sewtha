@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="unittests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/BarnabyK/My Documents/Downloads/gwt-incubator-july-14-2009.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/BarnabyK/My Documents/Downloads/gwt-visualization-1.0.2/gwt-visualization.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Documents and Settings/BarnabyK/My Documents/Downloads/gwt-visualization-1.0.2/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/BarnabyK/My Documents/Downloads/gwttheme.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/App Engine (1)"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/BarnabyK/My Documents/GWT/gwt-maps-1.0.4/gwt-maps.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
